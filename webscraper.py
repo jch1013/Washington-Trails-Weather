@@ -14,7 +14,7 @@ def makePageList():
     #132 pages of hikes
     for i in range(132):
         page_link = link_format + str(i * 30)
-        all_links.append(pagelink)
+        all_links.append(page_link)
     return all_links
 
 
