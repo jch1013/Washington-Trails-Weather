@@ -57,5 +57,5 @@ def findHikeData(trail_link):
 # test_links = getPage('https://www.wta.org/go-outside/hikes?b_start:int=0')
 
 
-test = findHikeData('https://www.wta.org/go-hiking/hikes/snow-lakes')
+test = findHikeData('https://www.wta.org/go-hiking/hikes/colchuck-lake')
 print(test)
